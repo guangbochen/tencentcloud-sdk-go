@@ -16,7 +16,7 @@ const (
 	GET  = "GET"
 
 	RootDomain = "tencentcloudapi.com"
-	Path       = "/"
+	Path       = ""
 )
 
 type Request interface {
